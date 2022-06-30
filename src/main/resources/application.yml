@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+springdoc:
+  swagger-ui:
+    path: /swagger
+
+commission:
+  percentage: 0.03
+  minimal: 200
